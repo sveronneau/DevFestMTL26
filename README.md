@@ -6,9 +6,7 @@ DevFest Montréal 2026 · Stacy Véronneau
 One thing to try for each part of the machine. Pick one; you don't need them all.
 *Une chose à essayer pour chaque pièce de la machine. Choisissez-en une; pas besoin de tout faire.*
 
-> **Note for Stacy (delete before publishing):** click-test every link. The AI.CHUNK_DOCUMENT link was built from a mirror of Google's docs, so confirm it first.
-
----
+> pizza-demo.sh to see it in action! 
 
 ## 1. The engine · Le moteur
 
