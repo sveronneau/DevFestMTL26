@@ -67,4 +67,4 @@ One thing to try for each part of the machine. Pick one; you don't need them all
 - **MITRE ATT&CK v20:** indirect prompt injection is now its own technique · *l'injection indirecte de requêtes est maintenant une technique à part entière* → https://attack.mitre.org
 - **The demo from the talk (pizza bot + Model Armor):** *la démo de la présentation* → https://github.com/sveronneau/DevFestMTL26
 
-*Questions? Find me on LinkedIn: [Stacy Véronneau](https://www.linkedin.com/in/stacyveronneau/) · GDG Cloud Montréal*
+*Questions? Find me on LinkedIn: [Stacy Véronneau](https://www.linkedin.com/in/stacyveronneau/) · [GDG Cloud Montréal](https://gdg.community.dev/gdg-cloud-montreal/) · [YouTube](https://www.youtube.com/@gdgmontreal)*
