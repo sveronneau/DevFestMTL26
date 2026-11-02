@@ -6,6 +6,8 @@ DevFest Montréal 2026 · Stacy Véronneau
 One thing to try for each part of the machine. Pick one; you don't need them all.
 *Une chose à essayer pour chaque pièce de la machine. Choisissez-en une; pas besoin de tout faire.*
 
+---
+
 ## 1. The engine · Le moteur
 
 **Run your PyTorch code on TPUs, no JAX required.** TorchTPU is open source: debug in eager mode, then move to `torch.compile` for production.
@@ -63,6 +65,6 @@ One thing to try for each part of the machine. Pick one; you don't need them all
 - **ISO/IEC 27090:2026:** the first international standard on AI security threats (guidance, not a certification) · *la première norme internationale sur les menaces de sécurité de l'IA* → https://www.iso.org/standard/27090
 - **OWASP Top 10 for LLM Applications (2026 edition):** data and model poisoning is #5 · *l'empoisonnement des données et des modèles est au 5e rang* → https://genai.owasp.org
 - **MITRE ATT&CK v20:** indirect prompt injection is now its own technique · *l'injection indirecte de requêtes est maintenant une technique à part entière* → https://attack.mitre.org
-- **The demo from the talk (pizza bot + Model Armor):** *pizza-demo.sh in this Repo*
+- **The demo from the talk (pizza bot + Model Armor):** *la démo de la présentation* → https://github.com/sveronneau/DevFestMTL26
 
-*Questions? Find me on LinkedIn: Stacy Véronneau · GDG Cloud Montréal*
+*Questions? Find me on LinkedIn: [Stacy Véronneau](https://www.linkedin.com/in/stacyveronneau/) · GDG Cloud Montréal*
