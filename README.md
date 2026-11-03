@@ -39,6 +39,10 @@ One thing to try for each part of the machine. Pick one; you don't need them all
 *Mettez le casque : filtrez requêtes, réponses et documents contre l'injection de requêtes avec Model Armor, devant n'importe quel modèle.*
 → https://docs.cloud.google.com/model-armor/overview
 
+**Test your Model Armor template before you ship it,** with your own sample prompts, right in the Google Cloud console: see which filters fire and how sensitive data gets redacted. No code needed.
+*Testez votre modèle Model Armor avant de le déployer, avec vos propres requêtes d’exemple, directement dans la console Google Cloud : voyez quels filtres se déclenchent et comment les données sensibles sont masquées. Aucun code requis.*
+→ https://docs.cloud.google.com/model-armor/manage-templates#test-ma-template
+
 **Copy Google's own blueprint.** Its agentic reference architectures now include Agent Identity, Agent Gateway, Agent Registry and Model Armor.
 *Copiez le plan de Google : ses architectures de référence pour agents intègrent maintenant Agent Identity, Agent Gateway, Agent Registry et Model Armor.*
 → https://docs.cloud.google.com/architecture/agentic-ai-orchestrate-security-ops-workflows
